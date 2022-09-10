@@ -1,6 +1,6 @@
 # Twitter
-I made twitter with HTML , CSS and Js. You can access the demo from the under link
+HTML , SCSS , ve JavaScript kullanarak popüler bir sosyal medya sitesi olan Twitter'ı kodladım
 
-In this project, a responsive design Twitter has been designed as both desktop and mobile views.
+Bu projeyi responsive olarak tasarladım. 
 
 
